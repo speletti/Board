@@ -5,5 +5,6 @@ public class Board {
 	
 	public Board() {
 		i = 1;
+		i = 2;
 	}
 }
